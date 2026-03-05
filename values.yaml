@@ -1,6 +1,6 @@
 replicaCount: 1
 
 image:
-  repository: 8282sun/cicd-tester
+  repository: 8282sun/cicd-test
   tag: "1.0.0-260305.111840"
   pullPolicy: Always
